@@ -1,0 +1,5 @@
+{
+  "name": "TokTik Clone",
+  "description": "A vertical scrolling video feed application inspired by TikTok, featuring video autoplay, likes, uploads, and a simulated monetization and promotion system.",
+  "requestFramePermissions": []
+}
